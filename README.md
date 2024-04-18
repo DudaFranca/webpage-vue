@@ -19,7 +19,7 @@ The project was developed using the following technologies
 </ul>
 
 ## 💻 How to compile the project
-# Clonar o repositório
+    # Clonar o repositório
     $ git clone https://github.com/DudaFranca/webpage-html
 
     # Enter directory
@@ -31,3 +31,6 @@ The project was developed using the following technologies
     # Start the
     $ npm run dev 
 
+## 🎉 Design by
+Author: Muse Muse Design Studio <br>
+https://www.behance.net/gallery/71200611/tumble
