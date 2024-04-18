@@ -20,10 +20,10 @@ The project was developed using the following technologies
 
 ## 💻 How to compile the project
     # Clonar o repositório
-    $ git clone https://github.com/DudaFranca/webpage-html
+    $ git clone https://github.com/DudaFranca/webpage-vue
 
     # Enter directory
-    $ cd webpage-html
+    $ cd webpage-vue
 
     # Install the dependencies
     $ npm install
